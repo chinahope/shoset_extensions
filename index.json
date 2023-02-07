@@ -51,16 +51,6 @@
       "md5": "c5977c9ba48c5115426fb3010cc65894"
     },
     {
-      "name": "Central Novel",
-      "fileName": "CentralNovel",
-      "id": 227675,
-      "imageURL": "https://centralnovel.com/wp-content/uploads/2021/06/CENTRAL-NOVEL-LOGO-DARK-.png",
-      "lang": "pt",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
       "name": "Novel Mania",
       "fileName": "NovelMania",
       "id": 250401,
@@ -151,16 +141,6 @@
       "md5": "d2edddc58222392b59ed34b73e25d6b2"
     },
     {
-      "name": "NovelHard",
-      "fileName": "NovelTrench",
-      "imageURL": "https://novelhard.com/wp-content/uploads/2019/08/novelhard.com_-1.png",
-      "id": 81,
-      "lang": "en",
-      "ver": "2.1.3",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
       "name": "WoopRead",
       "fileName": "Woopread",
       "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/WoopRead.png",
@@ -191,16 +171,6 @@
       "md5": ""
     },
     {
-      "name": "Reaper Scans",
-      "fileName": "ReaperScans",
-      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/ReaperScans.png",
-      "id": 4223,
-      "lang": "en",
-      "ver": "1.0.4",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
       "name": "Eternal Translation",
       "fileName": "EternalTranslation",
       "imageURL": "http://github.com/shosetsuorg/extensions/raw/dev/icons/EternalTranslation.png",
@@ -221,30 +191,10 @@
       "md5": ""
     },
     {
-      "name": "Wonpress",
-      "fileName": "Wonpress",
-      "imageURL": "http://github.com/shosetsuorg/extensions/raw/dev/icons/Wonpress.png",
-      "id": 4226,
-      "lang": "en",
-      "ver": "1.0.3",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
       "name": "Rain of Snow Translations",
       "fileName": "RainOfSnow",
       "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/RainOfSnow.png",
       "id": 4300,
-      "lang": "en",
-      "ver": "1.1.2",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Pink Muffin TL",
-      "fileName": "PinkMuffinTL",
-      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/PinkMuffinTL.png",
-      "id": 4301,
       "lang": "en",
       "ver": "1.1.2",
       "libVer": "1.0.0",
@@ -257,26 +207,6 @@
       "id": 4302,
       "lang": "en",
       "ver": "1.0.14",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Mylovenovel",
-      "fileName": "Mylovenovel",
-      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/Mylovenovel.png",
-      "id": 4303,
-      "lang": "en",
-      "ver": "1.1.3",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Readhive",
-      "fileName": "Readhive",
-      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/Readhive.png",
-      "id": 4304,
-      "lang": "en",
-      "ver": "1.0.2",
       "libVer": "1.0.0",
       "md5": ""
     },
@@ -297,16 +227,6 @@
       "id": 4500,
       "lang": "ar",
       "ver": "1.0.3",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Team X Novel",
-      "fileName": "TeamXNovel",
-      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/TeamXNovel.png",
-      "id": 4501,
-      "lang": "ar",
-      "ver": "1.0.1",
       "libVer": "1.0.0",
       "md5": ""
     },
@@ -357,16 +277,6 @@
       "id": 74485,
       "lang": "en",
       "ver": "1.1.1",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "ScribbleHub",
-      "fileName": "ScribbleHub",
-      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/ScribbleHub.png",
-      "id": 86802,
-      "lang": "en",
-      "ver": "1.0.2",
       "libVer": "1.0.0",
       "md5": ""
     },
@@ -431,32 +341,12 @@
       "md5": ""
     },
     {
-      "name": "NOVA",
-      "fileName": "NOVA",
-      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/NOVA.png",
-      "id": 28505740,
-      "lang": "es",
-      "ver": "1.1.4",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
       "name": "Octopii",
       "fileName": "Octopii",
       "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/Octopii.png",
       "id": 420,
       "lang": "en",
       "ver": "2.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Zetro Translations",
-      "fileName": "ZetroTranslation",
-      "imageURL": "https://zetrotranslation.com/wp-content/uploads/2020/12/logo_red-e1607700845220.png",
-      "id": 428270,
-      "lang": "en",
-      "ver": "1.0.0",
       "libVer": "1.0.0",
       "md5": ""
     },
@@ -475,16 +365,6 @@
       "fileName": "NeoSekaiTranslations",
       "imageURL": "https://www.neosekaitranslations.com/wp-content/uploads/2021/04/NeoSekaiLogoSpelled_correctly1.png",
       "id": 8323,
-      "lang": "en",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "LatestNovel",
-      "fileName": "Latestnovel",
-      "imageURL": "https://latestnovel.net/wp-content/themes/madara/images/logo.png",
-      "id": 2672381,
       "lang": "en",
       "ver": "1.0.0",
       "libVer": "1.0.0",
@@ -537,36 +417,6 @@
       "id": 72,
       "lang": "ru",
       "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Ranobelib",
-      "fileName": "Ranobelib",
-      "imageURL": "https://ranobelib.me/icons/android-icon-192x192.png",
-      "id": 73,
-      "lang": "ru",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Jaomix",
-      "fileName": "Jaomix",
-      "imageURL": "https://jaomix.ru/wp-content/uploads/2019/08/cropped-logo-2.png",
-      "id": 74,
-      "lang": "ru",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-{
-      "name": "Novelcake",
-      "fileName": "novelcake",
-      "imageURL": "https://novelcake.com/wp-content/uploads/2017/10/NOVELCAKE_2.png",
-      "id": 75,
-      "lang": "en",
-      "ver": "1.0.6",
       "libVer": "1.0.0",
       "md5": ""
     },
